@@ -1,8 +1,8 @@
-# Ayeline
+# Unisay
 
 **AI agents can pay for you. Now everyone can say yes.**
 
-Ayeline is an approval layer banks plug into AI-agent payments. A person approves a payment the agent prepared with one reliable signal (tap, key or switch), with spending limits, a caregiver co-sign above a set amount, "no signal means no", and a consent record for every approval.
+Unisay is an approval layer banks plug into AI-agent payments. A person approves a payment the agent prepared with one reliable signal (tap, key or switch), with spending limits, a caregiver co-sign above a set amount, "no signal means no", and a consent record for every approval.
 
 Marketing site built at the Ship AI AZ GTM Hackathon, Phoenix, October 17 to 18, 2026.
 

@@ -13,7 +13,7 @@ export default function BanksPage() {
       <PageIntro
         eyebrow="For banks and credit unions"
         title="An accessible approval layer for agent payments."
-        lede="Ayeline plugs into the payments your customers' AI agents prepare, so every customer can approve with one reliable signal. Pilot outline: a free 90-day pilot, then a monthly per-account fee."
+        lede="Unisay plugs into the payments your customers' AI agents prepare, so every customer can approve with one reliable signal. Pilot outline: a free 90-day pilot, then a monthly per-account fee."
         cta={{ href: "#demo", label: "Request a demo" }}
       />
       <section id="demo" aria-labelledby="demo-title" className="page-x pb-24">

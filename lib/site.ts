@@ -1,8 +1,8 @@
 export const site = {
-  name: "Ayeline",
+  name: "Unisay",
   tagline: "AI agents can pay for you. Now everyone can say yes.",
   description:
-    "Ayeline lets people approve agent payments with a single tap, key or switch, with spending limits, caregiver co-sign and a record of every yes.",
+    "Unisay lets people approve agent payments with a single tap, key or switch, with spending limits, caregiver co-sign and a record of every yes.",
   disclaimer: "Prototype. No real payments are made.",
 };
 

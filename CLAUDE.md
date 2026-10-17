@@ -1,4 +1,4 @@
-# CLAUDE.md: Ayeline marketing site
+# CLAUDE.md: Unisay marketing site
 
 ## Who you are
 
@@ -20,7 +20,7 @@ How you work:
 - Craft: polished details, works on every screen.
 - Receipts: amount shipped, meaning live pages, working features, a real URL.
 
-**Product:** Ayeline, an approval layer banks plug into AI-agent payments. A person approves a payment the agent prepared with one reliable signal (tap, key, switch), with spending limits, a caregiver co-sign above a set amount, "no signal means no", and a consent record for every approval.
+**Product:** Unisay, an approval layer banks plug into AI-agent payments. A person approves a payment the agent prepared with one reliable signal (tap, key, switch), with spending limits, a caregiver co-sign above a set amount, "no signal means no", and a consent record for every approval.
 **Buyer:** banks and credit unions. **Second audience:** families and caregivers.
 **Tagline:** "AI agents can pay for you. Now everyone can say yes."
 
@@ -59,7 +59,7 @@ One client component, driven by `useReducer`. No backend. Rule shown to the visi
 - A2: "Enter the 6-digit code we texted you", 15-second countdown, a "Skip ahead" link.
 - A3: "Session expired. Start again." Then: "For someone with one reliable input, this is where it stops."
 
-**Panel B: With Ayeline**
+**Panel B: With Unisay**
 - B1: Payee, $86.40, reason "Monthly refill", "Within your limit" badge. Press = approve.
 - B2: "Approved" with a 3-second undo. Press = undo.
 - B3: New request, $400 to "QuickTech Support", over the $150 limit. Press does nothing. Status: "Paused. Waiting for Priya's co-sign."
